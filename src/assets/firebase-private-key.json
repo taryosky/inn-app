@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "africhange-project",
+  "private_key_id": "a0bdee68142db34590caa4ee4be4b2a76b79fa9c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZbKetb0DJou7I\nmGQrXnd8P7Vtm35CTPoRW0/hMONaCfrW14qLgVkMzdrKG8YeLihkRipn5Ic1AzZT\nl6VjLxxB2vZw1lQFLdc9x5rzWPwgdMpo+4evJaSmCK/askAT32DfZib9QbO4Dwpj\nYC3BAxDHoZMBoia7U3TTjOThifmAbheDlRWDvvl3TBQE+QeFog1PKn/tn06mnsKy\nX4HHVh//GB86AdfZokh4XRc2Cnkpcf6ZYw0Vql8HhnsVYeTp9MPxnuoo0RWYCvOe\nmyKaDw7U6IjBkAYyJ1xLdVSzQVcE1LJfcZylBL/zu1XwrKVzgIH2gZ10uyax5c/h\neLUJ1x8rAgMBAAECggEABCsBZTa+bt8burwJIjezt1hf+ajtw7GcEvHFgeihAxyG\niCXQ9xmqA6/SjjtNZ04KjNmM0zmzSdXfmGdOJAJG2rsALGuUvWtX4UxOm8mh6Qa0\nIU0TwyIdROg3uXaJ+ezh+4ZcIFC+dDx9k31y2Gy0SU9p9QcPElo9jBdQWpkoL55j\nmeghoAj49pRPVuObsFe1lL9Xr+WRTZIGKD0CTRr6vFBKGC9ngByKHFQSsgyswQtl\nCmsdleGdDag9WC1/iPLONTxeblXWwkvjRKrcOr5MMJMaX7nWtvEUBeGhlyrm07au\n19tcYaL7IeYbyiq99qMAlDxvZMoiTa6CSW05otkbKQKBgQD6dNOb5tqXnEFefP96\ngLhtbg04rYMWFazhkw8sK28U3ZNLAgFK4mCY2aIUlWHpCzpRZIyb+11zdsHXZxny\nE79LxVxh4vvS4GQkBmLsv0B/VlKzvnPmpEcxoJ0ztR+jXAyHTgqLbXb3Ny5A6L+O\nDlankToFDa4fLmdMvXEKrBNRxQKBgQDePKhwaM9COiVIivlde8OJGaQ4QjtbUHzW\nIiH4H9Gcw9k9zzteIUrg0qdgMyjonEBacmlbgQbWYu27b8GoB+08ZISe84YcldSL\nJsNEz34EnnL/kQZMXCFyiaH3Za5e1aSIAweFBoIDPge+6r83lMi/cyIKq5zwL5SG\njMxJ1VxsLwKBgHk7ka6WWVsn5LCDGvtGUX+O1NGJk7ld9pgeIisEPzm/Y2vcZZnE\n6HM0bXM/N+yhZbI+VJ2wV/TrGDtXCcUW7/MSbnxnbfQOcArMGJh2nxbERzYAS4Pq\nIxgPoeiElPLzPJFGIm6JJxvVVwtOXmK56BImhwopLA6l3JTV4mEDGDrtAoGAQTnm\nag+o/RQZyz/WzqQ7kKqw8z4lM7jc2vBrreqQ2AT3ZtfC4e69jlzleSuqzxLFJIa9\n+3hULGoewkubuBiTfY03C3wIGa20Ex9OYozPvMVQlUfYZGMKAhb5LaZvVjA4OR9C\nfr2ZPSBgn51AgCyv+tjs3drelfQxEIiUkPsJREsCgYEA4zQZ/h5DUQAPzBRX4V3r\npSKsOObxIzbjtkdOgupo1gjmjhTqKVewsZhWdv4QrStfGhOd2ZQXSRU7sb7ru19v\ntjJciR+3gc5edRBWjEerlKArJOzHP7FDje8hqG0gioikMM5QWexrXg8/aV+YeS5i\nxSoVe1mnbL9NSO/qLxFek+U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ydo3w@africhange-project.iam.gserviceaccount.com",
+  "client_id": "110565967375371876883",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ydo3w%40africhange-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
